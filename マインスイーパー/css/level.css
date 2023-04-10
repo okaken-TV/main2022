@@ -1,0 +1,13 @@
+@charset "UTF-8";
+html{
+    background-image: url(../images/background/a1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+div.center{
+	text-align: center;
+}
