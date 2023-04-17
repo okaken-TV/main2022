@@ -7,4 +7,8 @@ html{
 li,h1{
     font-size: 40px;
     text-align: center;
+    list-style:none;
 }
+ul{
+    padding-left:0;
+  }
